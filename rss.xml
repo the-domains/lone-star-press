@@ -4,11 +4,18 @@
         <description><![CDATA[The home of Lone Star Press]]></description>
         <link>https://thegrid.ai/lone-star-press/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 17:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 17:21:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lone-star-press/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Pantheon #10 cover]]></title>
+            <description><![CDATA[<article><h1>Pantheon #10 cover</h1><p>Pantheon #10 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32f174066e7ec1d69726851d601b6a05ad2fd9c9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lone-star-press/7ee5b434-e397-4994-b8c4-b8e74c9ec144/index.html</link>
+            <guid isPermaLink="false">7ee5b434-e397-4994-b8c4-b8e74c9ec144</guid>
+            <pubDate>Sun, 03 Jan 2016 17:20:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pantheon #9 cover]]></title>
-            <description><![CDATA[<article><h1>Pantheon #9 cover</h1><p>Pantheon #9 </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2396df8-c564-4805-93fd-d8ec9bb03dc9.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Pantheon #9 cover</h1><p>Pantheon #9 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10cf368ba542b3cd4d8436a965600e9b40fe9ca2.png"></article>]]></description>
             <link>https://thegrid.ai/lone-star-press/19cdfc11-b1f3-4474-9350-1b6a248a5abc/index.html</link>
             <guid isPermaLink="false">19cdfc11-b1f3-4474-9350-1b6a248a5abc</guid>
             <pubDate>Sun, 03 Jan 2016 17:16:17 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lone-star-press/807ea38f-4ffb-4f4a-a850-64753237b66f/index.html</link>
             <guid isPermaLink="false">807ea38f-4ffb-4f4a-a850-64753237b66f</guid>
             <pubDate>Sat, 02 Jan 2016 18:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon tpb cover]]></title>
-            <description><![CDATA[<article><h1>Amazon tpb cover</h1><p>Amazon: Steel of a Soldier's Heart</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/932e38272dfc8a76222e56dfdb652bb05d785e4a.png"></article>]]></description>
-            <link>https://thegrid.ai/lone-star-press/5ba0f1b9-e02a-4f5a-bd7b-31dc9bfee7dd/index.html</link>
-            <guid isPermaLink="false">5ba0f1b9-e02a-4f5a-bd7b-31dc9bfee7dd</guid>
-            <pubDate>Sat, 02 Jan 2016 18:01:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
