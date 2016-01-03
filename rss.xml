@@ -4,8 +4,15 @@
         <description><![CDATA[The home of Lone Star Press]]></description>
         <link>https://thegrid.ai/lone-star-press/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 17:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 17:12:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lone-star-press/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pantheon #7 cover]]></title>
+            <description><![CDATA[<article><h1>Pantheon #7 cover</h1><p>Pantheon #7 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb423e3be4573c0a64318fc7858ba56422df0794.png"></article>]]></description>
+            <link>https://thegrid.ai/lone-star-press/8e950bba-cab9-48fc-b9f2-ca52c5797b84/index.html</link>
+            <guid isPermaLink="false">8e950bba-cab9-48fc-b9f2-ca52c5797b84</guid>
+            <pubDate>Sun, 03 Jan 2016 17:11:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pantheon #6 cover]]></title>
             <description><![CDATA[<article><h1>Pantheon #6 cover</h1><p>Pantheon #6 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32fadfe32853876f3adc31764418fa9d1b1146f2.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lone-star-press/822203bd-f637-47e7-b3bc-5fa1d764ebca/index.html</link>
             <guid isPermaLink="false">822203bd-f637-47e7-b3bc-5fa1d764ebca</guid>
             <pubDate>Sat, 02 Jan 2016 17:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unused (for now) Abessa Cover]]></title>
-            <description><![CDATA[<article><h1>Unused (for now) Abessa Cover</h1><p>Unused SideChicks Cover- featuring Abessa</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f592bf4364f73672b2fdabf32129710cdc8c9b5c.png"></article>]]></description>
-            <link>https://thegrid.ai/lone-star-press/18c51c60-abff-4829-9db0-f09a6075eec0/index.html</link>
-            <guid isPermaLink="false">18c51c60-abff-4829-9db0-f09a6075eec0</guid>
-            <pubDate>Thu, 31 Dec 2015 21:39:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
