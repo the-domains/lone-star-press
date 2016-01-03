@@ -4,8 +4,15 @@
         <description><![CDATA[The home of Lone Star Press]]></description>
         <link>https://thegrid.ai/lone-star-press/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 16:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 16:07:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lone-star-press/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pantheon #3 cover]]></title>
+            <description><![CDATA[<article><h1>Pantheon #3 cover</h1><p>Pantheon #3 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0bb0c1e86172586d305407805873296c8131e1ee.png"></article>]]></description>
+            <link>https://thegrid.ai/lone-star-press/f01c5d19-1a05-4208-bad3-1660984868db/index.html</link>
+            <guid isPermaLink="false">f01c5d19-1a05-4208-bad3-1660984868db</guid>
+            <pubDate>Sun, 03 Jan 2016 16:07:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pantheon #2 cover]]></title>
             <description><![CDATA[<article><h1>Pantheon #2 cover</h1><p>Pantheon #2 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32ec27cb832a7d183466a099d3172e006c6e9dd8.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lone-star-press/6a9cbce0-9b60-4ffd-8471-5f78dd32ae59/index.html</link>
             <guid isPermaLink="false">6a9cbce0-9b60-4ffd-8471-5f78dd32ae59</guid>
             <pubDate>Thu, 31 Dec 2015 15:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SideChicks #1 cover]]></title>
-            <description><![CDATA[<article><h1>SideChicks #1 cover</h1><p>SideChicks #1</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26031650b17927c7bd33cd23989c5431b5e27cd3.png"></article>]]></description>
-            <link>https://thegrid.ai/lone-star-press/a581578b-030a-4101-a464-ef6372dc9d03/index.html</link>
-            <guid isPermaLink="false">a581578b-030a-4101-a464-ef6372dc9d03</guid>
-            <pubDate>Thu, 31 Dec 2015 15:11:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
