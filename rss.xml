@@ -4,11 +4,18 @@
         <description><![CDATA[The home of Lone Star Press]]></description>
         <link>https://thegrid.ai/lone-star-press/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 18:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 18:22:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lone-star-press/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Ex Parte #2 cover]]></title>
+            <description><![CDATA[<article><h1>Ex Parte #2 cover</h1><p>Ex Parte #2 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7478566f5ba3ebc30e0d1cb7a99a1077eddef64.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lone-star-press/95f42617-1033-45af-8cad-930c726c102d/index.html</link>
+            <guid isPermaLink="false">95f42617-1033-45af-8cad-930c726c102d</guid>
+            <pubDate>Sun, 17 Jan 2016 18:22:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ex Parte #1 cover]]></title>
-            <description><![CDATA[<article><h1>Ex Parte #1 cover</h1><p>Ex Parte #1 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c476087826462371b315609c250e4ad82f565181.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Ex Parte #1 cover</h1><p>Ex Parte #1 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5515cbbb17cbf03415b6d29ea4a96e18691c54f0.jpg"></article>]]></description>
             <link>https://thegrid.ai/lone-star-press/f37e65f1-de78-44d8-a2e7-cb4206dc6b26/index.html</link>
             <guid isPermaLink="false">f37e65f1-de78-44d8-a2e7-cb4206dc6b26</guid>
             <pubDate>Sun, 17 Jan 2016 18:20:03 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lone-star-press/d58726d0-1867-4381-96c9-0d4c3ab2158b/index.html</link>
             <guid isPermaLink="false">d58726d0-1867-4381-96c9-0d4c3ab2158b</guid>
             <pubDate>Sun, 03 Jan 2016 17:11:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pantheon #5 cover]]></title>
-            <description><![CDATA[<article><h1>Pantheon #5 cover</h1><p>Pantheon #5 </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f00b596d850f7b696960efbc02e41fcd4691a411.png"></article>]]></description>
-            <link>https://thegrid.ai/lone-star-press/128c96bd-2955-4048-a6ec-aceff8163949/index.html</link>
-            <guid isPermaLink="false">128c96bd-2955-4048-a6ec-aceff8163949</guid>
-            <pubDate>Sun, 03 Jan 2016 16:36:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
